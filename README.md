@@ -20,6 +20,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 * 12 - RSA, order finding, and Shor's algorithm
 * 13 - Introducing variational algorithms
 * 14 - Parameter-shift rules, and the variational quantum classifier
+* 15 - VQC model selection, and introducing the variational eigensolver
 
 
 ## Resources
