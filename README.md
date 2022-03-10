@@ -21,7 +21,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 * 13 - Introducing variational algorithms
 * 14 - Parameter-shift rules, and the variational quantum classifier
 * 15 - VQC model selection, and introducing the variational eigensolver
-
+* 16 - Mixed states, noise, and quantum channels
 
 ## Resources
 
