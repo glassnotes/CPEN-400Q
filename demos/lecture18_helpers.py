@@ -45,12 +45,19 @@ def trace_distance(rho, sigma):
 
 
 def plot_density_matrix_city(rho):
-    # setup the figure and axes
+    """A "city plot" of a density matrices real and imaginary components.
+
+    Code taken from:
+      - https://matplotlib.org/stable/gallery/mplot3d/3d_bars.html
+      - https://stackoverflow.com/questions/43869751/change-bar-color-in-a-3d-bar-plot-in-matplotlib-based-on-value
+    Args:
+        rho (array[complex]): A density matrix.
+    """
+
     fig = plt.figure(figsize=(15, 5))
     ax1 = fig.add_subplot(111, projection='3d')
     ax2 = fig.add_subplot(122, projection='3d')
 
-    # fake data
     _x = np.arange(len(rho))
     _y = np.arange(len(rho))
     _xx, _yy = np.meshgrid(_x, _y)
