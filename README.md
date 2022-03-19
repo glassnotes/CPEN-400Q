@@ -22,6 +22,8 @@ These materials are open source and free for anyone to use and adapt as they wis
 * 14 - Parameter-shift rules, and the variational quantum classifier
 * 15 - VQC model selection, and introducing the variational eigensolver
 * 16 - Mixed states, noise, and quantum channels
+* 17 - Noisy device simulation, VQE, and error mitigation
+* 18 - Error mitigation, and introducing QAOA
 
 ## Resources
 
