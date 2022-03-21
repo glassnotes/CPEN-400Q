@@ -24,6 +24,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 * 16 - Mixed states, noise, and quantum channels
 * 17 - Noisy device simulation, VQE, and error mitigation
 * 18 - Error mitigation, and introducing QAOA
+* 19 - Solving combinatorial optimization problems with QAOA
 
 ## Resources
 
