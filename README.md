@@ -25,6 +25,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 * 17 - Noisy device simulation, VQE, and error mitigation
 * 18 - Error mitigation, and introducing QAOA
 * 19 - Solving combinatorial optimization problems with QAOA
+* 20 - Crash course on Hamiltonian simulation
 
 ## Resources
 
