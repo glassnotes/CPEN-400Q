@@ -11,6 +11,7 @@ wish.
 ## Lectures
 
 * 01 - Overview and intro to gate model quantum computing
+* 02 - Quantum circuits and PennyLane 
 
 ## Resources
 
