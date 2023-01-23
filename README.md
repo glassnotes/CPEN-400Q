@@ -14,6 +14,7 @@ wish.
 * 02 - Quantum circuits and PennyLane 
 * 03 - Measurement
 * 04 - More on measurement; multi-qubit states and gates
+* 05 - Our first quantum algorithms
 
 ## Resources
 
