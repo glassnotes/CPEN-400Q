@@ -16,6 +16,7 @@ wish.
 * 04 - More on measurement; multi-qubit states and gates
 * 05 - Our first quantum algorithms
 * 06 - Quantum teleportation 
+* 07 - Expectation values; introducing the VQC
 
 ## Resources
 
