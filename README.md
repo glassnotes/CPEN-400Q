@@ -17,6 +17,7 @@ wish.
 * 05 - Our first quantum algorithms
 * 06 - Quantum teleportation 
 * 07 - Expectation values; introducing the VQC
+* 08 - Hands-on with the variational quantum classifier
 
 ## Resources
 
