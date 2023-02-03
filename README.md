@@ -2,7 +2,7 @@
 
 *Note: Materials for the 2022 instance of the course are available in the [releases](https://github.com/glassnotes/CPEN-400Q/releases/tag/v1-W2022).*
 
-Lecture notes and in-class demos for the undergraduate/graduate course in gate-model quantum computing with [PennyLane](https://github.com/PennyLaneAI/pennylane/) at UBC. 
+Lecture notes and in-class demos for the undergraduate course in gate-model quantum computing with [PennyLane](https://github.com/PennyLaneAI/pennylane/) at UBC. 
 
 These materials are open source and free for anyone to use and adapt as they
 wish.
