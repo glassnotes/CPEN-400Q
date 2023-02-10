@@ -19,6 +19,7 @@ wish.
 * 07 - Expectation values; introducing the VQC
 * 08 - Hands-on with the variational quantum classifier
 * 09 - The quantum Fourier transform (QFT)
+* 10 - The QFT and quantum phase estimation
 
 ## Resources
 
