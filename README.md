@@ -22,6 +22,7 @@ wish.
 * 10 - The QFT and quantum phase estimation
 * 11 - Quantum phase estimation; order finding
 * 12 - Order finding and Shor's algorithm
+* 13 - Variational algorithms: gradients and the VQE 
 
 ## Resources
 
