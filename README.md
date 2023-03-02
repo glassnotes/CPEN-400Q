@@ -23,6 +23,7 @@ wish.
 * 11 - Quantum phase estimation; order finding
 * 12 - Order finding and Shor's algorithm
 * 13 - Variational algorithms: gradients and the VQE 
+* 14 - The variational quantum eigensolver; introducing QAOA
 
 ## Resources
 
