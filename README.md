@@ -24,7 +24,8 @@ wish.
 * 12 - Order finding and Shor's algorithm
 * 13 - Variational algorithms: gradients and the VQE 
 * 14 - The variational quantum eigensolver; introducing QAOA
-
+* 15 - Solving combinatorial optimization problems with QAOA (part 1)
+ 
 ## Resources
 
  - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/)
