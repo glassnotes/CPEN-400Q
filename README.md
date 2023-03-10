@@ -25,6 +25,7 @@ wish.
 * 13 - Variational algorithms: gradients and the VQE 
 * 14 - The variational quantum eigensolver; introducing QAOA
 * 15 - Solving combinatorial optimization problems with QAOA (part 1)
+* 16 - Solving combinatorial optimization problems with QAOA (part 2)
  
 ## Resources
 
