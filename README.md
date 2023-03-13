@@ -26,7 +26,8 @@ wish.
 * 14 - The variational quantum eigensolver; introducing QAOA
 * 15 - Solving combinatorial optimization problems with QAOA (part 1)
 * 16 - Solving combinatorial optimization problems with QAOA (part 2)
- 
+* 17 - Mixed states, noise, and quantum channels
+
 ## Resources
 
  - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/)
