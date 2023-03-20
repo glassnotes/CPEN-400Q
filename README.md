@@ -27,6 +27,7 @@ wish.
 * 15 - Solving combinatorial optimization problems with QAOA (part 1)
 * 16 - Solving combinatorial optimization problems with QAOA (part 2)
 * 17 - Mixed states, noise, and quantum channels
+* 19 - Noisy quantum systems; introducing the oracle 
 
 ## Resources
 
