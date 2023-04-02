@@ -1,6 +1,6 @@
 # CPEN 400Q: Gate-model quantum computing (UBC ECE, January 2023)
 
-*Note: Materials for the 2022 instance of the course are available in the [releases](https://github.com/glassnotes/CPEN-400Q/releases/tag/v1-W2022).*
+*Note: Materials for the 2022 instance of the course are available in the [releases](https://github.com/glassnotes/CPEN-400Q/releases/tag/v1-W2022), or directly at [this older commit of the repository](https://github.com/glassnotes/CPEN-400Q/tree/e3a116153d07c8fa644d6ba88c3fe60259b9731f).*
 
 Lecture notes and in-class demos for the undergraduate course in gate-model quantum computing with [PennyLane](https://github.com/PennyLaneAI/pennylane/) at UBC. 
 
