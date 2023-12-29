@@ -22,4 +22,4 @@ Complete materials from previous runs of the course are available under
 repository state using the links below:
  
  * [v2 (2023)](https://github.com/glassnotes/CPEN-400Q/tree/19060632843f782f1e9c510694d2fb2140ffe61a)
- * [v1 ( 2022)](https://github.com/glassnotes/CPEN-400Q/tree/e3a116153d07c8fa644d6ba88c3fe60259b9731f)
+ * [v1 (2022)](https://github.com/glassnotes/CPEN-400Q/tree/e3a116153d07c8fa644d6ba88c3fe60259b9731f)
