@@ -7,7 +7,7 @@ wish.
 
 ## Lectures
 
-Coming soon.
+ - 01: Overview and intro to gate model quantum computing
 
 ## Resources
 
