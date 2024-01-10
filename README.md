@@ -8,6 +8,7 @@ wish.
 ## Lectures
 
  - 01: Overview and intro to gate model quantum computing
+ - 02: Single-qubit systems; introducing PennyLane
 
 ## Resources
 
