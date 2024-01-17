@@ -10,6 +10,7 @@ wish.
  - [2024-01-08] 01: Overview and intro to gate model quantum computing
  - [2024-01-10] 02: Single-qubit systems; introducing PennyLane
  - [2024-01-15] 03: Measurement I (projective measurements)
+ - [2024-01-17] 04: Entanglement and multi-qubit systems 
 
 ## Resources
 
