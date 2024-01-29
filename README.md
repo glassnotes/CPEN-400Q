@@ -13,6 +13,7 @@ wish.
  - [2024-01-17] 04: Entanglement and multi-qubit systems 
  - [2024-01-22] 05: Our first quantum algorithms (superdense coding and teleportation)
  - [2024-01-24] 06: Teleportation and Measurement II (expectation values)
+ - [2024-01-24] 07: Hands-on with the variational quantum classifer (VQC)
 
 ## Resources
 
