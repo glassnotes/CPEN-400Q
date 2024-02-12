@@ -16,6 +16,7 @@ wish.
  - [2024-01-24] 07: Hands-on with the variational quantum classifer (VQC)
  - [2024-02-05] 09: The oracle, query complexity, and Deutsch's algorithm
  - [2024-02-07] 10: Grover's algorithm
+ - [2024-02-12] 11: An overview of quantum compilation 
 
 ## Resources
 
