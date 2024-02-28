@@ -19,6 +19,7 @@ wish.
  - [2024-02-12] 11: An overview of quantum compilation 
  - [2024-02-14] 12: Hands-on with quantum compilation
  - [2024-02-26] 13: The quantum Fourier transform
+ - [2024-02-28] 14: QFT and quantum phase estimation
 
 ## Resources
 
