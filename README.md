@@ -20,7 +20,8 @@ wish.
  - [2024-02-14] 12: Hands-on with quantum compilation
  - [2024-02-26] 13: The quantum Fourier transform
  - [2024-02-28] 14: QFT and quantum phase estimation
-
+ - [2024-03-04] 15: Quantum phase estimation and order finding
+ 
 ## Resources
 
  - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/)
