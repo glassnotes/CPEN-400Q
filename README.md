@@ -21,6 +21,7 @@ wish.
  - [2024-02-26] 13: The quantum Fourier transform
  - [2024-02-28] 14: QFT and quantum phase estimation
  - [2024-03-04] 15: Quantum phase estimation and order finding
+ - [2024-03-06] 16: Order finding and Shor's algorithm
  
 ## Resources
 
