@@ -26,6 +26,7 @@ wish.
  - [2024-03-13] 18: Hamiltonian simulation
  - [2024-03-18] 19: Hamiltonian simulation circuits and Trotterization
  - [2024-03-20] 20: Hamiltonian simulation: error and resources in practice
+ - [2024-03-25] 22: Hands-on with the variational quantum eigensolver (VQE)
  
 ## Resources
 
