@@ -28,6 +28,7 @@ wish.
  - [2024-03-20] 20: Hamiltonian simulation: error and resources in practice
  - [2024-03-25] 21: Hands-on with the variational quantum eigensolver (VQE)
  - [2024-04-03] 22: Mixed states and density matrices
+ - [2024-04-08] 23: Quantum channels and noise
  
 ## Resources
 
