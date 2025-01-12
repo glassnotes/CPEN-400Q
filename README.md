@@ -9,6 +9,7 @@ wish.
 
 1. [2025-01-06] Overview and intro to gate model quantum computing
 2. [2025-01-08] Single-qubit systems; introducing PennyLane
+3. [2025-01-13] Measurement I (projective measurements)
  
 ## Resources
 
