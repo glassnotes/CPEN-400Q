@@ -12,7 +12,8 @@ wish.
 3. [2025-01-13] Measurement I (projective measurements)
 4. [2025-01-15] Basis rotations; entanglement and multi-qubit systems
 5. [2025-01-20] Entanglement and multi-qubit gates; superdense coding
-6. [2025-01-22] Superdense coding and quantum teleportation; Measurement II (expectation values)
+6. [2025-01-22] Superdense coding and quantum teleportation
+7. [2025-01-27] Measurement II (expectation values)
 
 ## Resources
 
