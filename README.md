@@ -14,6 +14,7 @@ wish.
 5. [2025-01-20] Entanglement and multi-qubit gates; superdense coding
 6. [2025-01-22] Superdense coding and quantum teleportation
 7. [2025-01-27] Measurement II (expectation values)
+8. [2025-02-03] The oracle, query complexity, and Deutsch's algorithm
 
 ## Resources
 
