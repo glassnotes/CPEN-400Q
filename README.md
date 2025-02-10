@@ -16,6 +16,8 @@ wish.
 7. [2025-01-27] Measurement II (expectation values)
 8. [2025-02-03] The oracle, query complexity, and Deutsch's algorithm
 9. [2025-02-05] Grover's algorithm
+10. [2025-02-10] Quantum compilation I
+
 
 ## Resources
 
