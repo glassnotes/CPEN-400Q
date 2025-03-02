@@ -20,6 +20,7 @@ wish.
 11. [2025-02-12] Quantum compilation II
 12. [2025-02-24] Quantum Fourier transform (QFT)
 13. [2025-02-26] QFT and quantum phase estimation (QPE)
+14. [2025-03-03] QPE and order finding
 
 ## Resources
 
