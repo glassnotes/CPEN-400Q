@@ -21,6 +21,7 @@ wish.
 12. [2025-02-24] Quantum Fourier transform (QFT)
 13. [2025-02-26] QFT and quantum phase estimation (QPE)
 14. [2025-03-03] QPE and order finding
+14. [2025-03-05] Order finding and Shor's algorithm
 
 ## Resources
 
