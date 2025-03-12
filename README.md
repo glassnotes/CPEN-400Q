@@ -23,6 +23,7 @@ wish.
 14. [2025-03-03] QPE and order finding
 15. [2025-03-05] Order finding and Shor's algorithm
 16. [2025-03-10] Mixed states and density matrices
+17. [2025-03-12] Quantum channels
 
 ## Resources
 
