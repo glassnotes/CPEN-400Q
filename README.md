@@ -24,6 +24,7 @@ wish.
 15. [2025-03-05] Order finding and Shor's algorithm
 16. [2025-03-10] Mixed states and density matrices
 17. [2025-03-12] Quantum channels
+18. [2025-03-17] Noise and error channels
 
 ## Resources
 
