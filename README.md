@@ -25,6 +25,7 @@ wish.
 16. [2025-03-10] Mixed states and density matrices
 17. [2025-03-12] Quantum channels
 18. [2025-03-17] Noise and error channels
+19. [2025-03-19] Intro to quantum error correction
 
 ## Resources
 
