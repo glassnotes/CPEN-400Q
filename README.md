@@ -27,6 +27,7 @@ wish.
 18. [2025-03-17] Noise and error channels
 19. [2025-03-19] Intro to quantum error correction
 20. [2025-03-24] Conditions for quantum error correction; intro to stabilizers
+21. [2025-03-26] Stabilizer codes
 
 ## Resources
 
