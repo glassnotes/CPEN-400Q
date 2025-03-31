@@ -28,6 +28,7 @@ wish.
 19. [2025-03-19] Intro to quantum error correction
 20. [2025-03-24] Conditions for quantum error correction; intro to stabilizers
 21. [2025-03-26] Stabilizer codes
+22. [2025-03-31] Fault-tolerant quantum computing
 
 ## Resources
 
