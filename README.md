@@ -1,5 +1,7 @@
 # CPEN 400Q: Gate-model quantum computing (UBC ECE, January 2025)
 
+Note: starting in Fall 2025, CPEN 400Q is renamed to CPEN 416. Materials for subsequent versions of course can be found in the [new GitHub repository](https://github.com/glassnotes/CPEN-416/).
+
 Lecture notes and in-class demos for the undergraduate course in gate-model quantum computing with [PennyLane](https://github.com/PennyLaneAI/pennylane/) at UBC. 
 
 These materials are open source and free for anyone to use and adapt as they
